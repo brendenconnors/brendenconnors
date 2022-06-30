@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there 👋 I'm Brenden
 
-<!--
-**brendenconnors/brendenconnors** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am currently working as a Machine Learning Engineer at [Symend](https://symend.com/). Current work involves building data pipelines & ML models using semi-structured data. I received my BS in Mathematics from Montana State University - Billings in 2019, and my MS in Data Science from the University of Montana 🐻 in 2021. Feel free to check out my [website](https://brendenconnors.github.io/) (WIP) to check out my projects/posts.
 
-Here are some ideas to get you started:
+## Interests Include
+- Both traditional statistical learning and deep learning as a whole
+- Machine learning and analytics for sports (specifically 🏀)
+- Recommender systems
+- Data visualization 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am always looking to broaden my knowledge in all DS/ML! If you have anything you'd like to share, would like to collaborate, or just want to say "Hello", feel free to send me a message on LinkedIn, or shoot me an email.
+
+<a href="https://www.linkedin.com/in/brenden-connors-6a0512195" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
