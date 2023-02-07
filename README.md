@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Brenden
 
-I am currently working as a Machine Learning Engineer at [Symend](https://symend.com/). Current work involves building data pipelines & ML models using semi-structured data. I received my BS in Mathematics from Montana State University - Billings in 2019, and my MS in Data Science from the University of Montana 🐻 in 2021. Feel free to check out my [website](https://brendenconnors.github.io/) (WIP) to check out my projects/posts.
+I am currently working as a Basketball Data Scientist for the Sacramento Kings. Previously I was working as a Machine Learning Engineer at [Symend](https://symend.com/). I received my BS in Mathematics from Montana State University - Billings in 2019, and my MS in Data Science from the University of Montana 🐻 in 2021. Feel free to check out my [website](https://brendenconnors.github.io/) (WIP) to check out my projects/posts.
 
 ## Interests Include
 - Both traditional statistical learning and deep learning as a whole
